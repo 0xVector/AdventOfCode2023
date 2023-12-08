@@ -1,4 +1,4 @@
-with open("inputs/day6.txt") as file:
+with open("inputs/day00.txt") as file:
     data = [line.strip() for line in file]
 
 # Part 1 ===
